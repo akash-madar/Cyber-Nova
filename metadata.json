@@ -1,0 +1,8 @@
+{
+  "name": "ScholarAI – Your Future, Funded",
+  "description": "Two-agent autonomous AI scholarship and government scheme discovery, deterministic eligibility verification, and application planning platform for Indian students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
